@@ -1,0 +1,197 @@
+.banner-principal__img
+  animation-name: spin
+  animation-duration: 10.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes spin
+  0%
+    transform: rotate(0deg) 
+    transform: translatey(0px)
+    transform: translatex(0px)           
+  25%
+    transform: rotate(1deg)
+  50%
+    transform: rotate(0deg)
+    transform: translatex(16px)           
+  60%
+    transform: translatey(16px)    
+  75%
+    transform: rotate(1deg)
+    transform: translatex(-16px)   
+  100%
+    transform: rotate(0deg)
+    transform: translatey(0px)
+    transform: translatex(0px)   
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto    
+
+.BorTit
+  border-left: 5px solid #529AD9
+  padding: 6px 0px 6px 10px     
+  
+.BorTit_table
+  border-left: 5px solid #EA3065
+  padding: 6px 0px 6px 10px    
+
+.num-color-list
+  background-color: #BF3976 !important  
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 30px
+      height: 30px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #339CE9
+      span 
+        color: white
+        font-weight: bold
+        font-size: 20px 
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#BF3976
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 20px
+      margin-right: 0.65rem
+      margin-top: 4px
+      img 
+        width: 20px
+        vertical-align: middle
+        
+  &__txt 
+    p:first-child,
+    h4:first-child 
+      margin-top: 7px  
+
+$gutter: 30px
+$border-width: 6px
+$dot-diameter: 28px
+.timeline 
+  width: 100%
+  max-width: 1000px
+  padding: 100px 50px
+  position: relative
+  &:before 
+    content: ''
+    position: absolute
+    top: 0px
+    left: calc(34.2% + -35px) //$gutter/2
+    bottom: 0px
+    width: 10px
+    background: #E4C7A1
+    border-radius: 20px  
+  &:after 
+    content: ""
+    display: table
+    clear: both
+.entry 
+  clear: both
+  text-align: left
+  position: relative
+  .title 
+    margin-bottom: .5em
+    float: left
+    padding-right: $gutter
+    text-align: right
+    position: relative  
+    width: 90px
+    height: 90px
+    background: #D44F4A
+    border-radius: 50%
+    transition: transform .3s ease-in-out
+    display: flex
+    justify-content: center
+    align-items: center
+    margin-left: 14.5%
+    &:before 
+      content: ''
+      position: absolute
+      width: $dot-diameter
+      height: $dot-diameter
+      border: $border-width solid #D44F4A
+      background-color:#fff
+      border-radius: 100%
+      top: 40%
+      left: 130%
+      right: -$dot-diameter
+      z-index: 99
+    &:after
+      content: ""
+      display: block
+      top: 38%
+      left: 73%
+      width: 30px
+      height: 30px
+      transform: rotate(45deg)
+      position: absolute
+      background: #D44F4A 
+    h3 
+      margin: 0
+      margin-left: 30px      
+      font-size: 120%
+      z-index: 20
+      color: white 
+    p 
+      margin: 0
+      font-size: 100%  
+  .body 
+    margin: 0 0 3em
+    float: right
+    width: 70%
+    padding-left: $gutter
+    p 
+      line-height: 1.4em
+      &:first-child 
+        margin-top: 0
+        font-weight: 400     
+    ul 
+      color:#aaa
+      padding-left: 0
+      list-style-type: none
+      li:before 
+        content: "–"
+        margin-right: .5em
+      
+.bg-img 
+  background-image: url(../assets/ilustraciones/img1.svg)
+  background-repeat: unset;
+  background-attachment: fixed;
+  
+
+.beat:hover 
+  animation: beat 1.5s
+  animation-iteration-count: infinite
+
+@keyframes beat 
+  0%  
+    transform: scale(1.0)
+  50%  
+    transform: scale(1.02)
+  100%  
+    transform: scale(1.0)
