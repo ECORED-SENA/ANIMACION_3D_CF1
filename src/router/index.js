@@ -13,12 +13,6 @@ const router = new VueRouter({
       component: Inicio,
     },
     {
-      path: '/introduccion',
-      name: 'introduccion',
-      component: () =>
-        import(/* webpackChunkName: "intro" */ '../views/Introduccion.vue'),
-    },
-    {
       path: '/curso',
       name: 'curso',
       component: Curso,
@@ -44,13 +38,13 @@ const router = new VueRouter({
           component: () =>
             import(/* webpackChunkName: "tema3" */ '../views/Tema3.vue'),
         },
+        {
+          path: 'tema4',
+          name: 'tema4',
+          component: () =>
+            import(/* webpackChunkName: "tema4" */ '../views/Tema4.vue'),
+        },
       ],
-    },
-    {
-      path: '/actividad',
-      name: 'actividad',
-      component: () =>
-        import(/* webpackChunkName: "actividad" */ '../views/Actividad.vue'),
     },
     {
       path: '/glosario',

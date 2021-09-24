@@ -135,7 +135,7 @@ $dot-diameter: 28px
       width: $dot-diameter
       height: $dot-diameter
       border: $border-width solid #D44F4A
-      background-color:#fff
+      background-color:#E4C7A1
       border-radius: 100%
       top: 40%
       left: 130%
@@ -195,3 +195,98 @@ $dot-diameter: 28px
     transform: scale(1.02)
   100%  
     transform: scale(1.0)
+
+.bg-a
+  background-color: #D2EBE7 !important
+.text-a
+  color: #12263F !important 
+
+.hr
+  border: 1px solid #D44F4A  
+
+.bg-row-color
+  background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(239,223,201,1) 50%, rgba(232,237,217,1) 100%)  
+
+.float-img
+  margin-top: -20em
+
+.m-top-row
+  margin-top: 8em    
+
+.yoyo 
+  animation: yoyo 3.0s
+  animation-iteration-count: infinite
+
+@keyframes yoyo 
+  0%  
+    transform: translatex(0px)
+  50%  
+    transform: translatex(-2px)
+  100%  
+    transform: translatex(0px)
+
+.bg-row-color-1    
+  background: linear-gradient(180deg, rgba(241,226,207,1) 0%, rgba(241,226,207,0) 100%)
+
+.bg-row-color-2
+  background: linear-gradient(180deg, rgba(107,188,177,1) 0%, rgba(241,226,207,0) 100%)  
+
+.bg-row-color-3
+  background: linear-gradient(180deg, rgba(212,79,74,0.2497199563419118) 0%, rgba(212,79,74,0) 100%) 
+
+.bg-row-color-4
+  background: linear-gradient(180deg, rgba(241,226,207,1) 0%, rgba(241,226,207,0) 100%)  
+
+.yoyo1 
+  animation: yoyo1 3.0s
+  animation-iteration-count: infinite
+
+@keyframes yoyo1 
+  0%  
+    transform: translatey(0px)
+  50%  
+    transform: translatey(-3px)
+  100%  
+    transform: translatey(0px)  
+
+.bloque-texto-g
+  justify-content: flex-start !important
+
+.bloque-g-text
+  justify-content: flex-end !important  
+
+.m-left
+  left: 50% !important
+
+@media only screen and (max-width: 992px)
+  .m-left
+    left: 0 !important    
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  color: white !important
+.tarjeta--gris
+  background-color: lighten(#E4C7A1,19% )   
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  font-weight: 900 !important
+  font-size: larger !important
+
+.img-animation
+  animation: float 6s ease-in-out infinite
+
+@keyframes float
+  0%
+    transform: translatey(0px)
+  50%
+    transform: translatey(-20px)
+  100%
+    transform: translatey(0px)        
+
+.cajon.color-secundario
+  background-color: lighten(#6BBCB1,37% )  
+
+.bg-tarjeta
+  background-color: #E4C7A1 !important  
+
+.link-color
+  color: #D44F4A !important  
