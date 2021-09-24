@@ -41,8 +41,6 @@
               .anexo__texto
                 p.text-a #[b.text-a Video]. Ejemplo: La magia de la animación
 
-    p(data-aos="fade-down").mt-5 Alrededor de los 90 la mayoría de los estudios dejaron de usar los acetatos y empezaron a escanear sus dibujos para pintarlos en la computadora. Hoy día, muchos animadores clásicos no usan el papel y lápiz, sino que dibujan directamente en el ordenador usando tabletas digitales o monitores especiales.(Bloop Animation Studios LLC, 2020). 
-
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mt-5(data-aos="fade-left")
       .bloque-texto-g__img.m-left(
         :style="{'background-image': `url(${require('@/assets/ilustraciones/img19.png')})`}"

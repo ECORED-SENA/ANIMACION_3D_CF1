@@ -93,6 +93,13 @@ export default {
         titulo: 'Trabajo colaborativo',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Principio KISS',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
