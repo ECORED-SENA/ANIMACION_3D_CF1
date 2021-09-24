@@ -96,7 +96,7 @@ export default {
       {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
-        numero: '4',
+        numero: '5',
         titulo: 'Principio KISS',
         desarrolloContenidos: true,
       },
