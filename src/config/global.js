@@ -158,12 +158,6 @@ export default {
     },
     {
       referencia:
-        'Gobierno de Colombia, MinTIC. Manizales Vive Digital. (2016). Guía de buenas prácticas de calidad internacional para la industria de Animación Digital. ',
-      link:
-        'https://www.vivelabmanizales.com/wp-content/uploads/2015/02/1Guía-de-buenas-prácticas-de-calidad-internacional-Web.pdf',
-    },
-    {
-      referencia:
         'LAYBOURNE. (1998). The Animation Book: a complete guide to animated filmmaking - from flip-books to sound cartoons to 3-D animation. Three Rivers Press.',
     },
     {
@@ -247,6 +241,13 @@ export default {
       tipo: 'Blog',
       link:
         'https://soy.marketing/el-principio-kiss-ser-simple-no-es-estupido/',
+    },
+    {
+      texto:
+        'Gobierno de Colombia, MinTIC. Manizales Vive Digital. (2016). Guía de buenas prácticas de calidad internacional para la industria de Animación Digital.',
+      tipo: 'Pdf',
+      descarga:
+        '/downloads/Guia_buenas_practicas_calidad_internacional_industria_Animacion_Digital.pdf',
     },
   ],
   creditos: {
