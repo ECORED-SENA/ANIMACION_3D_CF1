@@ -13,6 +13,12 @@ const router = new VueRouter({
       component: Inicio,
     },
     {
+      path: '/introduccion',
+      name: 'introduccion',
+      component: () =>
+        import(/* webpackChunkName: "intro" */ '../views/Introduccion.vue'),
+    },
+    {
       path: '/curso',
       name: 'curso',
       component: Curso,

@@ -10,8 +10,6 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/6rhrLk-kWng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p(data-aos="fade-down").mt-5 Una de las necesidades fundamentales a la hora de abordar una producción animada en 3D, es evaluar los requerimientos de la historia a contar, porque la cantidad de trabajo, personas, tiempo y equipos necesarios para elaborar un audiovisual en 3D crece o disminuye proporcionalmente según la complejidad y extensión de la misma. 
-
     separador
     .titulo-segundo(data-aos="fade-right")
       h2 Plataformas de trabajo colaborativo
@@ -33,7 +31,7 @@
       .bloque-texto-g__texto.p-5
         p.mb-0 Tomando como ejemplo el esquema de producción audiovisual, se puede empezar a dividir el proceso en etapas, generando un tablero por cada una. Una vez hecho esto lo ideal sería establecer columnas de estado que podrían categorizarse como “#[b Por hacer]”, “#[b En proceso]”, “#[b Terminada]” y “#[b Estancada]” para luego generar al interior de cada categoría el listado completo de pequeñas tareas que ayudarán a conseguir el todo.
 
-    p(data-aos="fade-down").mt-5 Inicialmente, todas las tareas van a estar en categoría de estado denominada “#[b Por hacer]”, pero rápidamente algunas de estas deberán moverse a la categoría “#[b En proceso]”, donde se mantendrán hasta que el responsable de cada una logre terminarla y así la pueda mover a “#[b Terminada]”. Idealmente, con estas tres categorías debería bastar pero en algún punto del proyecto puede darse la situación de que alguna tarea no pueda ser completada debido a infinidad de inconvenientes, como por ejemplo, un archivo que no esté terminado y que sea necesario para culminar la tarea actual, es ahí donde la denominada “#[b Estancada]” toma importancia, pues indica que la tarea ha sido iniciada pero por alguna razón no se ha logrado culminar por lo que se debe priorizar la solución del inconveniente y así poder mover la tarea en conflicto a donde debe estar que es la categoría de “#[b Terminada]”.   
+    p(data-aos="fade-down").mt-5 Inicialmente, todas las tareas van a estar en categoría de estado denominada “#[b Por hacer]”, pero rápidamente algunas de estas deberán moverse a la categoría “#[b En proceso]”, donde se mantendrán hasta que el responsable de cada una logre terminarla y así la pueda mover a “#[b Terminada]”. Idealmente, con estas tres categorías debería bastar, pero en algún punto del proyecto puede darse la situación de que alguna tarea no pueda ser completada debido a infinidad de inconvenientes, como por ejemplo, un archivo que no esté terminado y que sea necesario para culminar la tarea actual, es ahí donde la denominada “#[b Estancada]” toma importancia, pues indica que la tarea ha sido iniciada, pero por alguna razón no se ha logrado culminar por lo que se debe priorizar la solución del inconveniente y así poder mover la tarea en conflicto a donde debe estar que es la categoría de “#[b Terminada]”.   
 
     .row.justify-content-center.align-items-center.bg-row-color-4.p-5(data-aos="fade-down").mt-5       
       .col-lg-10

@@ -10,7 +10,7 @@
     .titulo-segundo(data-aos="fade-right")
       h2 La animación a través del tiempo      
     .row.justify-content-center.align-items-center.mt-5(data-aos="flip-down")       
-      .col-lg-12.bg-img   
+      .col-12.bg-img   
         .timeline
           .entry(data-aos="fade-down")
             .title.beat
@@ -52,7 +52,7 @@
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
-              h3.text-center 1824
+              h3.text-center 1832
             .body
               img(data-aos="fade-down").mt-5.img-t.img-a(src='@/assets/ilustraciones/img5.png', alt='')
 
@@ -66,7 +66,7 @@
             .title.beat
               h3.text-center 1868
             .body
-              p(data-aos="fade-down").mt-5 Apareció el ‘flipbook’ y es recordado como el más simple y popular dispositivo. Es un bloc de dibujos encuadernados en un extremo como un libro. Al sostener el borde encuadernado y dar vuelta o ‘flipar’ el otro extremo del libro, se tiene como resultado animación, la ilusión de una acción continua; dibujos en el tiempo. Esto es lo que exactamente hacen los niños en las esquinas de sus cuadernos o libros. Incluso, la técnica de ‘flipar’ los dibujos se usa hoy en día por el animador clásico con el fin de probar el movimiento. (Williams, 2009). 
+              p(data-aos="fade-down").mt-5 Apareció el ‘#[i flipbook]’ y es recordado como el más simple y popular dispositivo. Es un bloc de dibujos encuadernados en un extremo como un libro. Al sostener el borde encuadernado y dar vuelta o ‘flipar’ el otro extremo del libro, se tiene como resultado animación, la ilusión de una acción continua; dibujos en el tiempo. Esto es lo que exactamente hacen los niños en las esquinas de sus cuadernos o libros. Incluso, la técnica de ‘flipar’ los dibujos se usa hoy en día por el animador clásico con el fin de probar el movimiento. (Williams, 2009). 
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
@@ -74,11 +74,11 @@
             .body
               img(data-aos="fade-down").img-t.img-a.mt-5(src='@/assets/ilustraciones/img7.png', alt='')
 
-              p(data-aos="fade-down").mt-5 En este año cabe destacar que Leland Stanford, gobernador de California, Estados Unidos, contrató al fotógrafo e investigador inglés Eadward Muybridge para resolver la pregunta ¿Un caballo al galopar es capaz de mantener en algún momento sus 4 extremidades sin tocar el suelo. Tras varios intentos fallidos, Muybridge logra darle la respuesta a Standford, disponiendo múltiples cámaras para capturar el movimiento en fotografías (stopmotion). Muybridge fue pionero en el estudio de la locomoción animal y creó el zoopraxinoscopio para proyectar una serie de imágenes que previamente había transferido a una cinta flexible perforada. (The Atlantic, 2016).
+              p(data-aos="fade-down").mt-5 En este año cabe destacar que Leland Stanford, gobernador de California, Estados Unidos, contrató al fotógrafo e investigador inglés Eadward Muybridge para resolver la pregunta ¿Un caballo al galopar es capaz de mantener en algún momento sus 4 extremidades sin tocar el suelo?. Tras varios intentos fallidos, Muybridge logra darle la respuesta a Standford, disponiendo múltiples cámaras para capturar el movimiento en fotografías (stopmotion). Muybridge fue pionero en el estudio de la locomoción animal y creó el zoopraxinoscopio para proyectar una serie de imágenes que previamente había transferido a una cinta flexible perforada. (The Atlantic, 2016).
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
-              h3.text-center 1872
+              h3.text-center 1879
             .body
               img(data-aos="fade-down").img-t.img-a.mt-5(src='@/assets/ilustraciones/img8.png', alt='')
 
@@ -88,13 +88,13 @@
             .title.beat
               h3.text-center 1896
             .body
-              p(data-aos="fade-down").mt-5 El caricaturista James Stuart Blackton entrevistó al inventor Thomas Edison quien había realizado experimentos con imágenes en movimiento. Blackton hizo dibujos rápidos o ‘sketches’ de Edison, el cual quedó muy impresionado por su rapidez y habilidad. Edison le pediría hacer unos dibujos en serie, para luego tomarles fotografías. Esta fue la primera combinación de dibujos y fotografía. 
+              p(data-aos="fade-down").mt-5 El caricaturista James Stuart Blackton entrevistó al inventor Thomas Edison quien había realizado experimentos con imágenes en movimiento. Blackton hizo dibujos rápidos o ‘#[i sketches]’ de Edison, el cual quedó muy impresionado por su rapidez y habilidad. Edison le pediría hacer unos dibujos en serie, para luego tomarles fotografías. Esta fue la primera combinación de dibujos y fotografía. 
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
               h3.text-center 1906
             .body
-              p(data-aos="fade-down").mt-5 Blackton y Edison hicieron pública la primera película animada Humorous Phases of Funny Faces, usando la técnica de stopmotion para crear movimiento. (Williams, 2009).
+              p(data-aos="fade-down").mt-5 Blackton y Edison hicieron pública la primera película animada Humorous Phases of Funny Faces, usando la técnica de #[i stop motion] para crear movimiento. (Williams, 2009).
               .row.justify-content-center.align-items-center.mt-4(data-aos="flip-down")       
                 .col-lg-8              
                   a.mb-3.anexo.bg-a(href="https://www.youtube.com/watch?v=wGh6maN4l2I" target="_blank")
@@ -237,7 +237,7 @@
             .title.beat
               h3.text-center 1933
             .body
-              p(data-aos="fade-down").mt-5 Mediante el uso de stop #[i motion] Willis O’Brien crea su gorila para King Kong, también se estrena Los Tres Cerditos de Disney, la primera película del estudio que sugiere una personalidad animada. 
+              p(data-aos="fade-down").mt-5 Mediante el uso de #[i stop motion] Willis O’Brien crea su gorila para King Kong, también se estrena Los Tres Cerditos de Disney, la primera película del estudio que sugiere una personalidad animada. 
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
@@ -275,7 +275,7 @@
             .title.beat
               h3.text-center 1941
             .body
-              p(data-aos="fade-down").mt-5 Wan Laiming y Wan Guchan dirigen en China el largometraje animado Tie Shan Gong Zhu (La princesa del abanico de Hierro) mientras en los estudios de Walt Disney se desarrolla una huelga. 
+              p(data-aos="fade-down").mt-5 Wan Laiming y Wan Guchan dirigen en China el largometraje animado Tie Shan Gong Zhu (La princesa del abanico de hierro) mientras en los estudios de Walt Disney se desarrolla una huelga. 
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
@@ -305,7 +305,7 @@
             .title.beat
               h3.text-center 1949
             .body
-              p(data-aos="fade-down").mt-5 El Coyote y el correcaminos de Chuck Jones aparecen por primera vez en el cortometraje Fast and Furry-ous. 
+              p(data-aos="fade-down").mt-5 El Coyote y El Correcaminos de Chuck Jones aparecen por primera vez en el cortometraje Fast and Furry-ous. 
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
@@ -361,7 +361,7 @@
             .title.beat
               h3.text-center 1963
             .body
-              p(data-aos="fade-down").mt-5 La serie Tetsuwan Atomu (Astro Boy) abre las puertas a muchas otrs series de animación japonesa.
+              p(data-aos="fade-down").mt-5 La serie Tetsuwan Atomu (Astro Boy) abre las puertas a muchas otras series de animación japonesa.
 
               p(data-aos="fade-down") El francés Serge Danot crea la serie “Le Manège enchanté”.
               .hr(data-aos="fade-left") 
@@ -407,7 +407,7 @@
             .title.beat
               h3.text-center 1975
             .body
-              p(data-aos="fade-down").mt-5 Es fundada ILM (Industrial Light and Magic) por George Lucas.En Albuquerque EE. UU. es Bill Gates y Paul Allen fundan Microsoft. 
+              p(data-aos="fade-down").mt-5 Es fundada ILM (Industrial Light and Magic) por George Lucas. En Albuquerque EE. UU. es Bill Gates y Paul Allen fundan Microsoft. 
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
@@ -441,7 +441,7 @@
             .title.beat
               h3.text-center 1988
             .body
-              p(data-aos="fade-down").mt-5 El largometraje ¿Quién engañó a Roger Rabbit? Es estrenado haciendo un hibrido entre animación e imagen real.
+              p(data-aos="fade-down").mt-5 El largometraje ¿Quién engañó a Roger Rabbit? Es estrenado haciendo un híbrido entre animación e imagen real.
 
               p(data-aos="fade-down") En Japón es estrenada Akira de Katsuhiro Otomo.
               .hr(data-aos="fade-left") 
@@ -541,7 +541,7 @@
 
               p(data-aos="fade-down").mt-5 Disney/Pixar estrena Ratatouille dirigida por Brad Bird.
 
-              p(data-aos="fade-down") Steve Jobs director de Apple lanza el iPhone revolucionando la telefonía móvil al desarrollar nuevas características para interfaces de usuario dentro las que se encuentra el uso de la animación.
+              p(data-aos="fade-down") Steve Jobs director de Apple lanza el iPhone revolucionando la telefonía móvil al desarrollar nuevas características para interfaces de usuario dentro de las que se encuentra el uso de la animación.
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat

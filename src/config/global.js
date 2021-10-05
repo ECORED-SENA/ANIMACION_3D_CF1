@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Historia y pipeline',
     descripcionCurso:
-      'Es posible que cuando se era más joven se dibujaron figuras animadas o quizás se creó un pequeño libro animado a través de pequeñas escenas realizadas en cada página de un cuaderno que, cuando se hojeaban, daban la ilusión de movimiento. <br><br>Por tal motivo en esta primera parte se retomará la historia de la animación, técnicas y un importante esquema de producción audiovisual que involucra la importancia del trabajo colaborativo y el principio de KISS, a partir de un desarrollo sencillo para llegar a juntar un mensaje central en la animación.',
+      'Es posible que cuando se era más joven se dibujaron figuras animadas o quizás se creó un pequeño libro animado a través de pequeñas escenas realizadas en cada página de un cuaderno que, cuando se hojeaban, daban la ilusión de movimiento.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -12,6 +12,12 @@ export default {
         nombreRuta: 'inicio',
         icono: 'fas fa-home',
         titulo: 'Volver al inicio',
+      },
+      {
+        nombreRuta: 'introduccion',
+        icono: 'fas fa-info',
+        titulo: 'Introducción',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema1',
@@ -36,7 +42,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Stop <i>motion</i>',
+            titulo: '<i>Stop motion</i>',
             hash: 't_2_2',
           },
           {
@@ -97,7 +103,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Principio KISS',
+        titulo: 'Principio <i>KISS</i>',
         desarrolloContenidos: true,
       },
     ],
@@ -187,7 +193,7 @@ export default {
       termino: 'Animación ',
       terminoHtml: 'Animación <em>stop motion</em>',
       significado:
-        'Animación stop motion	En su forma más simple, la animación <i>stop motion</i> consiste en manipular físicamente un modelo, tomar una imagen y luego mover el modelo ligeramente, un cuadro a la vez para crear la ilusión de movimiento.',
+        'En su forma más simple, la animación <i>stop motion</i> consiste en manipular físicamente un modelo, tomar una imagen y luego mover el modelo ligeramente, un cuadro a la vez para crear la ilusión de movimiento.',
     },
     {
       termino: 'Composición',
@@ -318,7 +324,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Magdi Khalifah Gamboa ',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

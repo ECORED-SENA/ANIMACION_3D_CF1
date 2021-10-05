@@ -178,6 +178,16 @@ $dot-diameter: 28px
         content: "–"
         margin-right: .5em
       
+
+@media only screen and (max-width: 992px)
+    .timeline 
+      padding: 0px
+    .body
+      width: auto !important      
+    .entry .body      
+      padding-left: 0px 
+    .timeline::before
+      background-color: transparent !important               
 .bg-img 
   background-image: url(../assets/ilustraciones/img1.svg)
   background-repeat: unset;
@@ -273,7 +283,11 @@ $dot-diameter: 28px
 
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
   font-weight: 900 !important
-  font-size: larger !important
+  font-size: large !important
+
+@media only screen and (max-width: 992px)  
+  .linea-tiempo-d__item__content__title
+    height: 70px !important     
 
 .img-animation
   animation: float 6s ease-in-out infinite
@@ -297,3 +311,11 @@ $dot-diameter: 28px
 
 .bg-card-row-color
   background-color: #FFC600   
+
+.float-img-1
+  margin-top: -25em !important  
+
+.m-top-row-1
+  margin-top: 5em !important  
+
+ 

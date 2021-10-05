@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 5
       h1 Principio KISS
-    p(data-aos="fade-down").mt-5 Este principio se deriva del diseño y la ingeniería de software (principio de usabilidad), no obstante, es fundamental conocerlo y aplicarlo dentro del sector audiovisual. #[b KISS] es la abreviación de #[b #[i Keep It Simple Stupid]] (siglas en inglés), en español: ¡Mantenlo simple estúpido! y sugiere el desarrollo empleando partes sencillas, comprensibles y evitando complicaciones innecesarias.
+    p(data-aos="fade-down").mt-5 Este principio se deriva del diseño y la ingeniería de #[i software] (principio de usabilidad), no obstante, es fundamental conocerlo y aplicarlo dentro del sector audiovisual. #[b KISS] es la abreviación de #[b #[i Keep It Simple Stupid]] (siglas en inglés), en español: ¡Mantenlo simple estúpido! y sugiere el desarrollo empleando partes sencillas, comprensibles y evitando complicaciones innecesarias.
 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mt-5(data-aos="fade-left")
@@ -30,7 +30,7 @@
       .col-lg-3.p-0.m-0.bg-card-row-color
         img.p-0.mx-0(src='@/assets/ilustraciones/img42.svg', alt='')       
       .col-lg-6.bg-card-row-color
-        p(data-aos="fade-down").pt-5.mt-4 Un ejemplo perfecto de un cortometraje o shortfilm que aplica este principio es el dinosaurio del ciego de Gaëtan Borde el cual se puede encontrar en internet o desde la tabla de ejemplos de historia y pipeline en la sección de principio KISS: 
+        p(data-aos="fade-down").pt-5.mt-4 Un ejemplo perfecto de un cortometraje o #[i shortfilm] que aplica este principio es el dinosaurio del ciego de #[i Gaëtan Borde] el cual se puede encontrar en internet o desde la tabla de ejemplos de historia y pipeline en la sección de principio KISS: 
         .row.justify-content-center.align-items-center.mt-5.pb-5(data-aos="fade-down")       
           .col-lg-8         
             a.mb-3.anexo.bg-a-1(href="https://www.youtube.com/watch?v=WFyfHszTnNA" target="_blank")
