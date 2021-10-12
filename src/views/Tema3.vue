@@ -161,7 +161,7 @@
 
       .row(numero="6" titulo="<i>Rigging</i>")
         .col-lg-11
-          p Para lograr crear los movimientos que otorgan la sensación de vida en los personajes y demás elementos 3D, es necesario desarrollar sistemas de información y control a las geometrías, básicamente esta es la función del #[i Rigging] que junto a la animación son los responsables de crear movimientos creíbles. 
+          p Para lograr crear los movimientos que otorgan la sensación de vida en los personajes y demás elementos 3D, es necesario desarrollar sistemas de información y control a las geometrías, básicamente esta es la función del #[i rigging] que junto a la animación son los responsables de crear movimientos creíbles. 
 
       .row(numero="7" titulo="Texturizado")
         .col-lg-11
@@ -173,7 +173,7 @@
 
       .row(numero="9" titulo="<i>Look dev</i>")
         .col-lg-11
-          p No es un proceso individual como tal, sino la unión de diferentes subprocesos como lo son, el modelado, el texturizado, el #[i shading], la iluminación y el #[i concept art] principalmente, y va de forma paralela a todos estos, incluso puede ser previo, ya que mediante el #[i Look development] se busca determinar el aspecto visual de la obra para dar los parámetros que determinan el desarrollo o ajuste de todo lo que se crea para contar la historia. 
+          p No es un proceso individual como tal, sino la unión de diferentes subprocesos como lo son, el modelado, el texturizado, el #[i shading], la iluminación y el #[i concept art] principalmente, y va de forma paralela a todos estos, incluso puede ser previo, ya que mediante el #[i look development] se busca determinar el aspecto visual de la obra para dar los parámetros que determinan el desarrollo o ajuste de todo lo que se crea para contar la historia. 
     .row.justify-content-center.align-items-center.mt-5  
       .col-lg-10 
         .cajon-b.color-secundario.p-3.mb-5(data-aos="fade-left")
@@ -204,7 +204,7 @@
 
       .row(numero="2" titulo="<i>Layout</i>")
         .col-lg-11
-          p Se establecen las posiciones y movimientos de cámara acorde a lo definido en el guion técnico y en el storyboard, de igual manera se dispone de la ubicación en el espacio 3D de los elementos de la escena y los personajes. 
+          p Se establecen las posiciones y movimientos de cámara acorde a lo definido en el guion técnico y en el #[i storyboard], de igual manera se dispone de la ubicación en el espacio 3D de los elementos de la escena y los personajes. 
 
       .row(numero="3" titulo="<i>Blocking </i>de animación")
         .col-lg-11
@@ -216,7 +216,7 @@
 
       .row(numero="5" titulo="<i>Polishing</i> de animación")
         .col-lg-11
-          p Habitualmente en este proceso se hace revisión final al plano buscando pulir detalles, como ajustes de tiempo, sincronización, cruces de geometría y todo aquello que empuje el acting del plano a niveles superiores. 
+          p Habitualmente en este proceso se hace revisión final al plano buscando pulir detalles, como ajustes de tiempo, sincronización, cruces de geometría y todo aquello que empuje el #[i acting] del plano a niveles superiores. 
 
       .row(numero="6" titulo="Animación técnica")
         .col-lg-11
@@ -232,7 +232,7 @@
 
       .row(numero="9" titulo="Iluminación")
         .col-lg-11
-          p En este proceso se van tomando los planos que terminaron su etapa de animación para hacer la configuración de todos los sistemas de iluminación que se necesitan en la escena, aplicando todo lo conseguido mediante el proceso de look #[i development]. 
+          p En este proceso se van tomando los planos que terminaron su etapa de animación para hacer la configuración de todos los sistemas de iluminación que se necesitan en la escena, aplicando todo lo conseguido mediante el proceso de #[i look development]. 
 
       .row(numero="10" titulo="Render")
         .col-lg-11

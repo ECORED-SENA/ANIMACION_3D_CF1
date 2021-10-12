@@ -103,7 +103,7 @@
                 .anexo__texto
                   p.text-a #[b.text-a Video]. Ejemplo: #[i.text-a ParaNorman Featurette: Making Norman]   
 
-      .row(numero="2" titulo="Claymation")
+      .row(numero="2" titulo="<i>Claymation</i>")
         .col-lg-11
           p El #[i Claymation] se caracteriza por usar figuras en materiales maleables como la arcilla o la plastilina. 
           img.img-t.img-a.yoyo1.mt-5(src='@/assets/ilustraciones/img23.png', alt='')
@@ -200,7 +200,7 @@
 
       .row(numero="c" titulo="<i>Animación 3D</i>")
         .col-lg-11
-          p Por último, la Animación 3D es una de las técnicas más usadas hoy día para la realización de largometrajes, cortometrajes, efectos visuales y videojuegos. Esta técnica, como todas las anteriores, abarca toda una serie de procesos complejos, que para este caso en concreto conlleva al esculpido o modelado digital, la #[i texturización] o pintura, el #[i rigging] o construcción de esqueletos, la animación de personajes, la iluminación y el #[i render]. Al igual que la animación digital 2D, el animador usa una marioneta para posarlo en el tiempo, y mediante #[i splines] o curvas de animación, se establecen las transiciones entre las poses. (MORR, 2020).
+          p Por último, la Animación 3D es una de las técnicas más usadas hoy día para la realización de largometrajes, cortometrajes, efectos visuales y videojuegos. Esta técnica, como todas las anteriores, abarca toda una serie de procesos complejos, que para este caso en concreto conlleva al esculpido o modelado digital, la texturización o pintura, el #[i rigging] o construcción de esqueletos, la animación de personajes, la iluminación y el #[i render]. Al igual que la animación digital 2D, el animador usa una marioneta para posarlo en el tiempo, y mediante #[i splines] o curvas de animación, se establecen las transiciones entre las poses. (MORR, 2020).
           img.img-t.img-a.yoyo1.mt-5(src='@/assets/ilustraciones/img30.png', alt='')
           .row.justify-content-center.align-items-center.mt-4       
             .col-lg-6         
