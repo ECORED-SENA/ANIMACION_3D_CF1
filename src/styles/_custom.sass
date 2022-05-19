@@ -177,17 +177,7 @@ $dot-diameter: 28px
       li:before 
         content: "–"
         margin-right: .5em
-      
-
-@media only screen and (max-width: 992px)
-    .timeline 
-      padding: 0px
-    .body
-      width: auto !important      
-    .entry .body      
-      padding-left: 0px 
-    .timeline::before
-      background-color: transparent !important               
+               
 .bg-img 
   background-image: url(../assets/ilustraciones/img1.svg)
   background-repeat: unset;
@@ -219,7 +209,9 @@ $dot-diameter: 28px
   border: 1px solid #D44F4A  
 
 .bg-row-color
-  background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(239,223,201,1) 50%, rgba(232,237,217,1) 100%)  
+  background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(239,223,201,1) 50%, rgba(232,237,217,1) 100%)
+  margin-inline: -3.2rem !important
+  margin-bottom: -48px
 
 .float-img
   margin-top: -20em
@@ -270,11 +262,7 @@ $dot-diameter: 28px
   justify-content: flex-end !important  
 
 .m-left
-  left: 50% !important
-
-@media only screen and (max-width: 992px)
-  .m-left
-    left: 0 !important    
+  left: 50% !important   
 
 .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   color: white !important
@@ -284,10 +272,6 @@ $dot-diameter: 28px
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
   font-weight: 900 !important
   font-size: large !important
-
-@media only screen and (max-width: 992px)  
-  .linea-tiempo-d__item__content__title
-    height: 70px !important     
 
 .img-animation
   animation: float 6s ease-in-out infinite
@@ -313,9 +297,27 @@ $dot-diameter: 28px
   background-color: #FFC600   
 
 .float-img-1
-  margin-top: -25em !important  
+  margin-top: 0em !important  
 
 .m-top-row-1
-  margin-top: 5em !important  
+  margin-top: 5em !important
 
- 
+@media only screen and (max-width: 992px)
+
+  .m-left
+    left: 0 !important
+
+  .linea-tiempo-d__item__content__title
+    height: 70px !important
+
+  .timeline 
+    padding: 0px
+    .body
+      width: auto !important      
+    .entry .body      
+      padding-left: 0px 
+    .timeline::before
+      background-color: transparent !important
+  
+  .bg-row-color
+    margin-bottom: -24px

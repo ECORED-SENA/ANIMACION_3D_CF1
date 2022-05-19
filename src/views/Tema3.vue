@@ -57,7 +57,7 @@
 
       .row(numero="7" titulo="Desarrollo literario de los personajes")
         .col-lg-11
-          p Consiste en la construcción literaria de los personajes, aquí se definen sus aspectos físicos, mentales culturales y todo aquello que sea importante para establecer su desarrollo y definir el arco de transformación a través de la historia. 
+          p Consiste en la construcción literaria de los personajes, aquí se definen sus aspectos físicos, mentales, culturales y todo aquello que sea importante para establecer su desarrollo y definir el arco de transformación a través de la historia. 
 
       .row(numero="8" titulo="Desarrollo literario de los escenarios")
         .col-lg-11

@@ -123,11 +123,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      //{
+      //  icono: 'fas fa-download',
+      //  titulo: 'Descargar material',
+      //  download: 'downloads/material.zip',
+      //},
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -350,7 +350,17 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Milady Tatiana Villamil Castellanos',
+        nombre: 'Andrés Camilo Penagos Beltran',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Jhon Fredy Rodriguez Castiiblanco',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Jose Daniel Guerrero Lievano',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },

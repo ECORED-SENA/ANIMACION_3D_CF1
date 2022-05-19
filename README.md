@@ -1,6 +1,6 @@
-# **sena-base-2021 v4.1.1**
+# **Historia y pipeline**
 
-## **https://ecored-sena.github.io/ANIMACION_3D_CF1/**
+## **Enlace GitHubPages**
 
 [https://ecored-sena.github.io/ANIMACION_3D_CF1/](https://ecored-sena.github.io/ANIMACION_3D_CF1/)
 

@@ -73,8 +73,8 @@
 
         p(data-aos="fade-down").mt-5 Esta categoría, que en español traduce, movimiento detenido, describe la animación creada a partir de la manipulación de objetos físicos que son movidos ligeramente y fotografiando fotograma a fotograma con el fin de dar la ilusión de movimiento.  
         .row.justify-content-center.align-items-center.mt-4(data-aos="fade-down")       
-          .col-lg-8         
-            a.mb-3.anexo.bg-a(href="https://www.youtube.com/watch?v=djV11Xbc914" target="_blank")
+          .col-lg-8
+            a.mb-3.anexo.bg-a(href="https://www.youtube.com/watch?v=X0QemvmpzfQ&t=4s" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto

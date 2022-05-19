@@ -60,7 +60,7 @@
 
               img(data-aos="fade-down").img-t.img-a.mt-5(src='@/assets/ilustraciones/img6.png', alt='')
 
-              p(data-aos="fade-down").mt-5 El zootropo: este instrumento victoriano fue vendido como un juguete y consistía en un tambor circular con rendijas. Largas tiras de papel con dibujos en secuencia eran insertadas dentro del tambor. Al rotar el tambor y ver a través de las perforaciones surgía la sensación de movimiento.  
+              p(data-aos="fade-down").mt-5 El zoótropo: este instrumento victoriano fue vendido como un juguete y consistía en un tambor circular con rendijas. Largas tiras de papel con dibujos en secuencia eran insertadas dentro del tambor. Al rotar el tambor y ver a través de las perforaciones surgía la sensación de movimiento.  
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
@@ -82,7 +82,7 @@
             .body
               img(data-aos="fade-down").img-t.img-a.mt-5(src='@/assets/ilustraciones/img8.png', alt='')
 
-              p(data-aos="fade-down").mt-5 El francés Emile Reynaud fue el primero en crear una corta secuencia de acción dramática sobre una tira transparente de 30 pies de larga, llamada “Crystaloid”. Inventó el praxinoscopio, aparato basado en el zootropo, con mecanismos mejorados que luego desarrollaría aún más hasta convertirlo en lo que se conoció como “Teatro óptico”. El trabajo de Reynaud abriría el camino para avances considerables por venir. (Animacam, 2017).
+              p(data-aos="fade-down").mt-5 El francés Emile Reynaud fue el primero en crear una corta secuencia de acción dramática sobre una tira transparente de 30 pies de larga, llamada “Crystaloid”. Inventó el praxinoscopio, aparato basado en el zoótropo, con mecanismos mejorados que luego desarrollaría aún más hasta convertirlo en lo que se conoció como “Teatro óptico”. El trabajo de Reynaud abriría el camino para avances considerables por venir. (Animacam, 2017).
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
@@ -337,7 +337,7 @@
             .title.beat
               h3.text-center 1957
             .body
-              p(data-aos="fade-down").mt-5 Hace su más famosa aparición Bugs Bunny en el cortometraje de Jones What’s opera, doc? 
+              p(data-aos="fade-down").mt-5 Hace su más famosa aparición Bugs Bunny en el cortometraje de Jones What’s opera, doc?
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
@@ -413,7 +413,7 @@
             .title.beat
               h3.text-center 1976
             .body
-              p(data-aos="fade-down").mt-5 Es California EE. UU. es fundada Apple por Steve Jobs, Steve Wozniak y Ronald Wayne. 
+              p(data-aos="fade-down").mt-5 En California EE. UU. es fundada Apple por Steve Jobs, Steve Wozniak y Ronald Wayne. 
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat
