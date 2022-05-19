@@ -192,7 +192,7 @@
                 .anexo__texto
                   p.text-a #[b.text-a Video]. Los créditos iniciales de Psycho de Hitchcock.
             .col-lg-6     
-              a.mb-3.anexo.bg-a(href="https://vimeo.com/214728820" target="_blank")
+              a.mb-3.anexo.bg-a(href="https://www.youtube.com/watch?v=TnVEnAZG_M0" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
